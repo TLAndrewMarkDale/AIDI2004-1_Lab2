@@ -7,4 +7,4 @@ To use the sklearn model, ensure that you have the appropriate libraries install
 
 You can close this repository using the following link:
 
-[https://github.com/TLAndrewMarkDale/AIDI2004-1_Lab2.git](Clone this repo!)
+(https://github.com/TLAndrewMarkDale/AIDI2004-1_Lab2.git)[Clone this repo!]

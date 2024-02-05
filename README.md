@@ -7,6 +7,6 @@ To use the sklearn model, ensure that you have the appropriate libraries install
 
 Model V1: This model is a Stacking Classifier model, with a fairly decent accuracy of 97.4%. 
 
-You can close this repository using the following link:
+You can download this repository using the following link:
 
-[Clone this repository!](https://github.com/TLAndrewMarkDale/AIDI2004-1_Lab2.git)
+[Download this repository!](https://github.com/TLAndrewMarkDale/AIDI2004-1_Lab2/archive/refs/heads/master.zip)
